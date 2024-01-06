@@ -1,5 +1,6 @@
 <h1>BURGER-HTML-CSS</h1>
 <p>This is the pet-project for studying the most simple Frontend technologies.</p>
+<p>You can see a result by next link [GitHub Pages]: https://ivanbyone.github.io/burger-html-css/
 <p><strong>Stack:</strong></p>
 <ul>
     <li>HTML</li>
